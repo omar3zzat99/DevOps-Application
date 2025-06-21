@@ -11,7 +11,7 @@ This project includes:
 - **Kubernetes Deployment**: Deploying the application on a kind Kubernetes cluster and configuring an ingress controller.
 
 - **CI/CD Pipeline**: Automating multiple SDLC stages using Jenkins.
-
+ 
 - **Helm Deployment**: Managing Kubernetes deployments using Helm charts for MongoDB, backend, and frontend services.
 
 - **ArgoCD GitOps**: Continuously deploying and synchronizing the application with the GitHub repository.
